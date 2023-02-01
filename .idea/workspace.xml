@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Meeting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_01/Main.java" afterDir="false" />
+    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 01 is done. Three tasks of four are completed and can be found done in main function as separate bodies. All separate bodies and additional functions to complete tasks are commented.">
+      <change afterPath="$PROJECT_DIR$/src/Lesson_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_01/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +51,30 @@
       <option name="presentableId" value="Default" />
       <updated>1674991419438</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 01 is done. Three tasks of four are completed and can be found done in main function as separate bodies. All separate bodies and additional functions to complete tasks are commented.">
+      <created>1675194640287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675194640287</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 01 is done. Three tasks of four are completed and can be found done in main function as separate bodies. All separate bodies and additional functions to complete tasks are commented." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 01 is done. Three tasks of four are completed and can be found done in main function as separate bodies. All separate bodies and additional functions to complete tasks are commented." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
