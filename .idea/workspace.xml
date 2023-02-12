@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 03 is done.">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_04/Lesson_04.java" afterDir="false" />
+    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 04 is done.">
       <change afterPath="$PROJECT_DIR$/src/Lesson_05/Lesson_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675599847237</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson 04 is done.">
+      <created>1675713068381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675713068381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +96,8 @@
     <MESSAGE value="Lesson 01 is done. Three tasks of four are completed and can be found done in main function as separate bodies. All separate bodies and additional functions to complete tasks are commented." />
     <MESSAGE value="Lesson 02 is done." />
     <MESSAGE value="Lesson 03 is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 03 is done." />
+    <MESSAGE value="Lesson 04 is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 04 is done." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
