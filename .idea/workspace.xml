@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 05 is done.">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_06/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_06/Lesson_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Meeting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Meeting.iml" afterDir="false" />
-    </list>
+    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 06 is done. This is the final project of this course!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676215827125</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 06 is done. This is the final project of this course!">
+      <created>1676829606846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676829606846</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,7 +118,8 @@
     <MESSAGE value="Lesson 03 is done." />
     <MESSAGE value="Lesson 04 is done." />
     <MESSAGE value="Lesson 05 is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 05 is done." />
+    <MESSAGE value="Lesson 06 is done. This is the final project of this course!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 06 is done. This is the final project of this course!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
