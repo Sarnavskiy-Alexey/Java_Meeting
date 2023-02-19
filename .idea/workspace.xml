@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 04 is done.">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_05/Lesson_05.java" afterDir="false" />
+    <list default="true" id="8d11e2a0-2c28-48be-a444-8576a8530afe" name="Changes" comment="Lesson 05 is done.">
+      <change afterPath="$PROJECT_DIR$/src/Lesson_06/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_06/Lesson_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Meeting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Meeting.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson_06" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675713068381</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson 05 is done.">
+      <created>1676215827125</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676215827125</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,7 +115,8 @@
     <MESSAGE value="Lesson 02 is done." />
     <MESSAGE value="Lesson 03 is done." />
     <MESSAGE value="Lesson 04 is done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 04 is done." />
+    <MESSAGE value="Lesson 05 is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 05 is done." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
